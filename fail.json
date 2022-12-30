@@ -1,0 +1,15 @@
+{ "care":"ford",
+  "price": 23.2,
+  "nwe car": true,
+  "user": null,
+  "bus": {
+    "mane": "ford",
+    "prie": "23",
+  }
+}
+
+
+
+{
+  "visibiliti" : ""
+}
